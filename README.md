@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hello, my name's Kirill! I'm a beginning frontend developer!
 
-<!--
-**l1irik-rbk/l1irik-rbk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS(SCSS)
+- JavaScript (TypeScript)
+- React + Redux
+- Git
+
+---
+
+### My projects:
+
+- [Project management app](https://github.com/l1irik-rbk/project-management-app)
+- [Rslang](https://github.com/l1irik-rbk/rslang)
+- [Async race](https://github.com/l1irik-rbk/js-projects/tree/async-race)
+- [Christmas](https://github.com/l1irik-rbk/js-projects/tree/christmas-task02TS)
+- [Momentum](https://github.com/l1irik-rbk/js-projects/tree/momentum)
