@@ -1,4 +1,4 @@
-## Hello, my name's Kirill! I'm a beginning frontend developer!
+## Hello, my name's Kirill! I'm frontend developer!
 
 ### Stack:
 
